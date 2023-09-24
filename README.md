@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hello World, I'm Sky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
