@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Sky <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
+<h1 align="center">Hello World, I'm Sky 👋</h1>
 <h3 align="center">A CSE Student at SRMIST Chennai.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ss0479&label=Profile%20views&color=0e75b6&style=flat" alt="ss0479" /> </p>
