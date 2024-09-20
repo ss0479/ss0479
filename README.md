@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Web Development**
 
-- ⚡ Fun fact: **I'm not Funny 😅**
+- ⚡ Fun fact: **I'm not Funy 😅**
   
 - 💬 Ask me about **anything**
 
